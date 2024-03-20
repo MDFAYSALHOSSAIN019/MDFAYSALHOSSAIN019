@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 
-<h1 align="center">Hi 👋, I'm Md. Abdul Alim Tushar</h1>
+<h1 align="center">Hi 👋, I'm Md. Faysal Hossain </h1>
 <h3 align="center">Full Stack Java Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imranhss&label=Profile%20views&color=0e75b6&style=flat" alt="imranhss" /> </p>
@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning Flutter, IsDB-BISEW
 
-- 📫 How to reach me **aatushar05@gmail.com**
+- 📫 How to reach me **mdfaysalhossain019@gmail.com**
 
-- 📄 Know about my experiences https://www.linkedin.com/in/aatushar/
+- 📄 Know about my experiences [https://www.linkedin.com/in//](https://www.linkedin.com/in/md-faysal-hossain-191909282/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
